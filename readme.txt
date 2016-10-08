@@ -15,5 +15,5 @@
 							        TEXT STEGANOGRAPHY
 
 
-1) The alphanumeric key generated at the end of encoding is very important as it is used again whilst decoding, an incorrect key used during decoding may result in wrong message being displayed.
+1) The alphanumeric key you decide at the time of encoding is very important as it is used again whilst decoding, an incorrect key used during decoding may result in wrong message being displayed.
 2) Do not use social networking platforms or messengers to send the encoded image they tamper with the image and the hidden message/image is lost in the process.
