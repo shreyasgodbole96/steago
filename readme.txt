@@ -10,6 +10,7 @@
 4) Use high resolution cover images preferably full HD(1920*1080) quad HD (2560*1440) and higher.
 5) The alphanumeric key generated at the end of encoding is very important as it is used again whilst decoding, an incorrect key used during decoding may result in program termination.
 6) Do not use social networking platforms or messengers to send the encoded image they tamper with the image and the hidden message/image is lost in the process.
+7) The approach that we have used while encoding image inside image differs from existing algorithms, hence we have created our own new procedure. Hope you guys enjoy the application! 
 						
 							        TEXT STEGANOGRAPHY
 
